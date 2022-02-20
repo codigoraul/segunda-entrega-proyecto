@@ -1,0 +1,24 @@
+
+body{
+    background-color: lightgreen;
+}
+.row{
+    background-color: lightblue;
+    padding: 1rem 0;
+}
+
+.container-fluid.bgGray {
+    background-color: #eee;
+  }
+  .navbar-light .navbar-toggler {
+
+    border-color: none !important;
+  }
+
+
+  .container-fluid.slider {
+    background-image: url(../img/slider.jpg);
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
